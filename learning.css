@@ -1,0 +1,33 @@
+body {
+	background-color: red;
+	width: 100%;
+	margin: 0px;
+}
+
+h1 {
+	background-color: darkblue;
+	text-align: center;
+	color: white;
+	margin: 0px;
+	height: 40px;
+}
+
+section1 {
+	float: left;
+	height: 900px;
+	width: 40%;
+}
+.mainform {
+	background-color: darkblue;
+	color: white;
+	text
+}
+hr {
+	padding: 2px;
+	color: white;
+	background-color: white;
+
+}
+.History {
+	padding: 2px;
+}
